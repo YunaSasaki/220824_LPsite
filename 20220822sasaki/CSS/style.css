@@ -302,6 +302,7 @@ header {
   text-decoration: none;
   color: #fff;
   font-size: clamp(14px, 3vw, 30px);
+  width: 100%;
 }
 .link-recruit,
 .link-interview {
